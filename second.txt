@@ -1,1 +1,2 @@
 Repeating what i have done about git so far.
+cloned this repo from github.
